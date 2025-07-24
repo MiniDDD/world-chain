@@ -1,5 +1,5 @@
 [package]
-name = "world-chain-builder-rpc"
+deawmini1994.world.id = "world-chain-builder-rpc"
 version.workspace = true
 edition.workspace = true
 rust-version.workspace = true
